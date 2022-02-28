@@ -5,11 +5,9 @@ The purpose of this project was to review a dataset that analyzed the weather co
 
 ### Results:
 
-June Temperature
-![alt text](https://github.com/mquimi/Surfs-Up/blob/main/imgs/June.png)
+June Temperature ![alt text](https://github.com/mquimi/Surfs-Up/blob/main/imgs/June.png)
 
-December Temperature
-![alt text](https://github.com/mquimi/Surfs-Up/blob/main/imgs/December.png)
+December Temperature ![alt text](https://github.com/mquimi/Surfs-Up/blob/main/imgs/December.png)
 
 Based on the results for June and December, we can determine the following three things:
 - June and Decmeber have an average tempetrue of 70 degrees
